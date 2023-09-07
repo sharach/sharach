@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharach
 - 👀 I’m interested in applications of computer science in science, specifically those of machine learning and AI.
-- 🌱 I’m currently studying an MSci in chemistry with mathematics at university. I'm improving my coding skills and currently exploring possible future career paths.
+- 🌱 I’m currently studying an BSc in Chemistry with Mathematics at UCL. I'm improving my coding skills and currently exploring possible future career paths.
 - 💞️ I’m looking to collaborate on any projects to develop my skills.
 - 📫 How to reach me: to be updated
 
